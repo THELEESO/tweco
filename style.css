@@ -82,3 +82,7 @@ section.right {
 section.right p {
   margin: 1rem 0rem;
 }
+
+section.right iframe {
+  border-radius: 0.5rem;
+}
