@@ -1,5 +1,7 @@
 # Taiwan Economic History
 
-Pratice Projiect 1
+- Pratice Project 1
+
+> Index review
 
 ![image](https://github.com/THELEESO/tweco/blob/main/tweco_review.gif?raw=true)
