@@ -2,4 +2,4 @@
 
 Pratice Projiect 1
 
-![image](https://imgur.com/oo7LZjL)
+![image](https://github.com/THELEESO/tweco/blob/main/tweco_review.gif?raw=true)
