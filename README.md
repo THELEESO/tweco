@@ -1,7 +1,8 @@
 # Taiwan Economic History
 
-- Pratice Project 1
+- Practice Project 1
 
-> Index review
+> Index preview + RWD
 
 ![image](https://github.com/THELEESO/tweco/blob/main/tweco_review.gif?raw=true)
+![image](https://github.com/THELEESO/tweco/blob/main/tweco_RWD.gif?raw=true)
